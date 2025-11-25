@@ -8,9 +8,9 @@ module.exports = {
   theme: {
     container: {
       screens: {
-        lg: '768px',
-        xl: '768px',
-        '2xl': '768px',
+        'lg': '768px',
+        'xl': '1080px',
+        '2xl': '1080px',
       },
       center: true,
       padding: {
