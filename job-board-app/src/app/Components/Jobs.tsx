@@ -1,6 +1,6 @@
 export default function Jobs() {
     return (
-        <div className="bg-slate-200 p-8 py-4 rounded-xl">
+        <div className="bg-slate-200 p-8 py-6 rounded-3xl">
             <div className="container">
                 <h2 className="p-2 font-bold mb-4">Recent Jobs</h2>
 

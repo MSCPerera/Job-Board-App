@@ -1,12 +1,9 @@
 export default function Header() {
     return (
-        <section className="container py-12">
+        <section className="container my-16">
             <h1 className="text-4xl font-bold text-center">
                 Find your dream<br />job here!
             </h1>
-            <p className="text-center text-gray-600 mt-2">
-                Welcome to the Job Board, the dedicated platform connecting talented professionals with innovative companies. Start exploring, apply today, or post your open role your future begins now.
-            </p>
             <form className="flex gap-2 mt-4 max-w-md mx-auto">
                 <input 
                     type="search" 
