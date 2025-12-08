@@ -26,7 +26,9 @@ export default async function Header() {
               </button>
             </form>
           )}
-          <Link className="rounded-md py-2 px-4 bg-blue-600 text-white" href={'/new-listing'}>Post a job</Link>
+          <Link className="rounded-md py-2 px-4 bg-blue-600 text-white" href={'/new-listing'}>
+            Post a job
+          </Link>
         </nav>
       </div>
     </header>
